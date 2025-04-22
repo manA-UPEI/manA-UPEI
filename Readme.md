@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on basic projects with Java or Python only.
 - 📫 Can be messaged directly @ sgtest.one@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Sky is the limit and I still have 3 more years to finish the course ;)
+- ⚡ Fun fact: Sky is the limit ;)
 
 <!---
 manA-UPEI/manA-UPEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
