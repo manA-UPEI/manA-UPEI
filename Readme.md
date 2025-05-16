@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman
 - 👀 I’m interested in learning Java for now while doing Bachelors in Computer Science
-- 🌱 I’m currently learning and studying DSA.
-- 💞️ I’m looking to collaborate on basic projects with Java or Python only.
+- 🌱 I’m currently learning and studying API.
+- 💞️ I’m looking to collaborate on basic projects with Java or Python.
 - 📫 Can be messaged directly @ sgtest.one@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Sky is the limit ;)
