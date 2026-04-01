@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aman
-- 👀 I’m interested in getting an Internship while doing Bachelors in Computer Science
+- 👋 Hi, I’m Aman, a COOP student in UPEI, Charlottetown.
+- 👀 I’m interested in getting an Internship in Software Development.
 - 🌱 I’m currently learning MERN stack for web app development.
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 Can be messaged directly @ akarki15064@upei.ca
