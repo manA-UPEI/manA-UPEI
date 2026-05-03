@@ -3,7 +3,7 @@
 - 👀 I will be ** Joining Veteran Affairs of Canada (VAC) as IT Analyst** for the SUMMER 2026.
 - 🌱 I’m currently learning MERN stack for web app development.
 - 💞️ I’m looking to collaborate on any interesting projects.
-- 📫 Can be messaged directly @ akarki15064@upei.ca
+- 📫 Can be messaged directly @ amankcupei@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Sky is the limit ;)
 
