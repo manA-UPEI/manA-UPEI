@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Aman, a COOP student in UPEI, Charlottetown.
-- 👀 I’m interested in getting an Internship in Software Development.
+- 👀 I’m interested in getting an Internship in Software Development for FALL Sem 2026.
+- 👀 I will be ** Joining Veteran Affairs of Canada (VAC) as IT Analyst** for the SUMMER 2026.
 - 🌱 I’m currently learning MERN stack for web app development.
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 Can be messaged directly @ akarki15064@upei.ca
