@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Aman, a COOP student in UPEI, Charlottetown.
+- 👋 Hi, I’m Aman, a COOP Computer Science student at UPEI, Charlottetown.
 - 👀 I’m interested in getting an Internship in Software Development for FALL Sem 2026.
-- 👀 I will be ** Joining Veteran Affairs of Canada (VAC) as IT Analyst** for the SUMMER 2026.
-- 🌱 I’m currently learning MERN stack for web app development.
+- 👀 I am working in Veteran Affairs of Canada (VAC) as Programmer Analyst.
+- 🌱 I’m currently learning Agentic Workflow.
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 Can be messaged directly @ amankcupei@gmail.com
 - 😄 Pronouns: he/him
