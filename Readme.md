@@ -3,7 +3,8 @@
 - 👀 I am working in Veteran Affairs of Canada (VAC) as Programmer Analyst.
 - 🌱 I’m currently learning Agentic Workflow.
 - 💞️ I’m looking to collaborate on any interesting projects.
-- 📫 Can be messaged directly @ amankcupei@gmail.com
+- 📫 Can be messaged directly @ amankcupei@gmail.com, Portfolio: https://amanportfolio-delta.vercel.app/
+
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Sky is the limit ;)
 
